@@ -1,0 +1,27 @@
+mutation {
+  c {
+    createTicket(Ticket: 
+		{
+			subject: "Graphql Glasses", 
+			priority: {key: "critical"}, 
+			region: {key: "lATAM"}, 
+			ticketStatus: {key: "open"}, 
+			type: {key: "other"}}) {
+      id
+      subject
+      description
+      priority {
+        key
+      }
+      region {
+        key
+      }
+      ticketStatus {
+        key
+      }
+      type {
+        key
+      }
+    }
+  }
+}

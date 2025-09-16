@@ -1,0 +1,17 @@
+{  
+  "subject": "System Outage",  
+  "externalReferenceCode": "SYS0015",
+  "description": "Critical system outage affecting customer operations.",  
+  "priority":  {
+        "key": "critical"
+        },  
+  "region":{
+        "key": "lATAM"
+      },  
+   "ticketStatus": {
+        "key": "open"
+      },
+  "type": {
+        "key": "other"
+      },  
+  "r_userToTicket_userERC": "ea96dd80-ebc8-6331-fae9-e66de5df621e"  }

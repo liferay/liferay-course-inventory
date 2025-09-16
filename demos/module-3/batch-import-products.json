@@ -1,0 +1,58 @@
+[
+  {
+    "active": true,
+    "catalogId": 51546,
+    "categories": [
+      {
+        "externalReferenceCode": "f0945568-2d4e-f5e4-6934-bc690bbc3f25",
+        "id": 32613,
+        "name": "Sunglasses",
+        "vocabulary": "clarity products"
+      }
+    ],
+    "description": {
+      "en_US": "<p>Second Test Batch Import</p>"
+    },
+    "displayDate": "2024-08-29T16:13:00Z",
+    "expando": {},
+    "externalReferenceCode": "BATCH-IMPORTED-0001",
+    "name": {
+      "en_US": "Batch Import 001"
+    },
+    "productType": "simple",
+    "skuFormatted": "default",
+    "tags": [],
+    "thumbnail": "/o/commerce-media/accounts/-9223372036854775808/images/51570?download=false",
+    "urls": {
+      "en_US": "BATCH-IMPORTED-0001"
+    }
+  },
+  {
+    "active": true,
+    "catalogId": 51546,
+    "categories": [
+      {
+        "externalReferenceCode": "f0945568-2d4e-f5e4-6934-bc690bbc3f25",
+        "id": 32613,
+        "name": "Sunglasses",
+        "vocabulary": "clarity products"
+      }
+    ],
+    "description": {
+      "en_US": "<p>Second Test Batch Import</p>"
+    },
+    "displayDate": "2024-08-29T16:13:00Z",
+    "expando": {},
+    "externalReferenceCode": "BATCH-IMPORTED-0002",
+    "name": {
+      "en_US": "Batch Import 002"
+    },
+    "productType": "simple",
+    "skuFormatted": "default",
+    "tags": [],
+    "thumbnail": "/o/commerce-media/accounts/-9223372036854775808/images/51570?download=false",
+    "urls": {
+      "en_US": "BATCH-IMPORTED-0002"
+    }
+  }
+]
