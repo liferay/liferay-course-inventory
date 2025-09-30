@@ -1,11 +1,12 @@
-# Mastering Consuming Liferay's Headless APIs
+# liferay-course-product-management
 
-This repository contains the Mastering Consuming Liferay's Headless APIs course materials.
+This repository contains the Mastering Inventory Management with Liferay course materials.
 
 ## Table of Contents
 
 - [Bundle Preparation](#bundle-preparation)
 - [Starting and Stopping the Bundle](#starting-and-stopping-the-bundle)
+ 
 
 ## Bundle Preparation
 
@@ -44,7 +45,9 @@ Once you have prepared your Liferay bundle, you can start and stop it using the 
 
    This will give you access to the Liferay environment where you can deploy and test your modules.
 
-3. **Stop the Bundle**: When you are done working with the Liferay bundle, you can stop the server by executing the following command:
+3. **Manual Reindex is needed**! Go to Control Panel -> Search -> Index Actions and perform a full reindex.
+
+4. **Stop the Bundle**: When you are done working with the Liferay bundle, you can stop the server by executing the following command:
    ```
    blade server stop
    ```
@@ -52,3 +55,4 @@ Once you have prepared your Liferay bundle, you can start and stop it using the 
    This command will stop the Liferay server, freeing up system resources.
 
 By following these steps, you can effectively manage the lifecycle of your Liferay bundle, ensuring a smooth development and testing process.
+
